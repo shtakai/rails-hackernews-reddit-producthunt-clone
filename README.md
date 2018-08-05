@@ -31,7 +31,7 @@ I think this is why wordpress is SO popular. Its stupid-easy to fire-up, and cha
 
 ### Deploy?
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/rails-hackernews-reddit-producthunt-clone.svg)](https://www.guardrails.io)
 
 *[learn more about](https://devcenter.heroku.com/articles/app-json-schema)*
 
